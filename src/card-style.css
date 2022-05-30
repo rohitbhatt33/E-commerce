@@ -1,0 +1,56 @@
+body{
+    /*background-image:url('ecos/9.jpg');*/
+    background: radial-gradient(white, whitesmoke,white);
+
+}
+
+.card{
+    width: 20rem;
+    
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 255);
+}
+.card-body{
+    padding: 0rem 4rem;
+    height: 11rem;
+
+}
+.card-text{
+    padding-top: 6rem;
+    padding-left: 4rem;
+}
+.card-img-top{
+    transform:scale(1);
+    transform: transform 0.5s ease;
+}
+.overflow{
+    overflow: hidden;
+}
+
+.card-img-top:hover{
+    transform: scale(1.8);
+}
+.col-md-4 {
+    flex: 2rem 2rem auto;
+    width: 24.333333%;
+    
+}   
+.ju{
+    justify-content: center;
+    font-style: italic;
+    font-family: emoji;
+    text-decoration: underline;
+    color: white;
+    background: darkblue;
+    box-shadow: -5px 11px 21px #89e;
+    text-shadow: 8px -6px 10px #0dcaf0;
+}
+.jui{
+    font-size: xx-large;
+    margin-left:56rem;
+    color:stalegrey;
+}
+.hi{
+    font-size: larger;
+}

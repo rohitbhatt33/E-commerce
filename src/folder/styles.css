@@ -1,0 +1,121 @@
+.jumbotron {
+  padding-bottom: 48px;
+  padding-top: 100px;
+  padding-left: 60px;
+  padding-right: 60px;
+  height: 654px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+   
+
+}
+.fa{
+  color: rgb(255, 123, 0);
+}
+a {
+  color: #0e48ad;
+}
+
+a:focus,
+a:hover {
+  color: #123294;
+}
+h2 ,p{
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.4;
+  margin-top: 0.8rem;
+}
+
+p:hover{
+  opacity: 1;
+  color: #cfb87c;
+  font-weight:900;
+}
+.bk{
+  align-content: center;
+}
+
+h2:hover{
+  opacity: 1;
+  color:#cfb87c;
+  font-size: -webkit-xxx-large;
+  background: radial-gradient(black, transparent);
+}
+h1 {
+  color:ivory;
+  text-decoration: none;
+  text-align: center;
+  position: relative;
+   padding-top: 10px;
+  font-size: 4.4rem;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold; 
+  background:linear-gradient(180deg ,silver  117%,white, transparent);
+}
+.h--alt {
+  font-weight: 300;
+  margin-top: 0;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 14px;
+}
+a {
+  color: #0e48ad;
+}
+a:focus,
+a:hover {
+  color: #123294;
+}
+.jumbotron.cardHero {
+  border-radius: 0;
+  background: transparent;
+  position: relative;
+  color: white;
+  letter-spacing: 0.02em;
+  padding-top: 170px;
+}
+
+.jumbotron.cardHero p {
+  font-size: 16px;
+}
+
+.cardHeroWrap {
+  background-color: #000;
+  position: relative;
+  margin: 0;
+}
+
+.cardHeroMask {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: #000;
+  opacity: 0.5;
+}
+
+.cardHeroWrap .btn {
+  border-radius: 0;
+  font-size: 16px;
+  padding: 6px 14px;
+}
+
+.cardHeroWrap .btn {
+  background-color: #0a35f7;
+  color: white;
+  border: 0px solid transparent;
+}
+
+.cardHeroWrap .btn-lg:hover {
+  background-color: #c8ad6a;
+}
+.razorpay-embed-btn{
+  text-align: center;
+  margin-top: -1rem;
+}
